@@ -169,11 +169,6 @@ source ~/.zshrc
 
   Verify that your API keys or login credentials are correct and have the necessary permissions.
 
-## Additional Resources
-
-- [MongoDB Atlas Documentation](https://www.mongodb.com/docs/atlas/)
-- [MongoDB CLI Documentation](https://www.mongodb.com/docs/mongocli/)
-
 ---
 
 The `atlas process` command is part of the MongoDB Atlas CLI and is used for managing and interacting with processes within your MongoDB Atlas environment. This includes tasks such as listing, describing, and managing database processes.
@@ -263,6 +258,9 @@ Here are a few examples of using the `atlas process` command:
   ```bash
   atlas dbuser ls
   ```
+
+- ** aditional commad always give by --help in any where in atlas command
+- ** use mongosh with atlas give u a very powerfull tool to do database operation using command line into cluster or server side conection
 
 ### **6. **Resources**
 
